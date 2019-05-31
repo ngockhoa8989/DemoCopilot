@@ -1,0 +1,24 @@
+dependencies: \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Volumes/PROJECTS/ResearchMobile/ReactNative/DemoCopilot/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
